@@ -1,7 +1,25 @@
-# <div align="center"> <p> الموقع الرسمي لنقابة الصحفيين المصريين </p> <p >The Official Website of the Egyptian Journalists Syndicate</p> </div>
+<div align="center">
+  
+# <div> <p> الموقع الرسمي لنقابة الصحفيين المصريين </p> <p >The Official Website of the Egyptian Journalists Syndicate</p> </div>
 
 
 ![Logo](/images/Hero.png)
+
+  <div>
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=000000" alt="tailwindCss" />
+    <img src="https://img.shields.io/badge/-Java_SCRIPT-black?style=for-the-badge&logoColor=white&logo=javaScript&color=000000" alt="js" />
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=000000" alt="react" />
+    <img src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logoColor=white&logo=ReactRouter&color=000000" alt="reactRouter" />
+    <img src="https://img.shields.io/badge/-React_Redux-black?style=for-the-badge&logoColor=white&logo=Redux&color=000000" alt="reactRedux" />
+    <img src="https://img.shields.io/badge/-React_Icons-black?style=for-the-badge&logoColor=white&logo=react&color=000000" alt="reactIcons" />
+    <img src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logoColor=white&logo=axios&color=000000" alt="axios" />
+    <img src="https://img.shields.io/badge/-MUi-black?style=for-the-badge&logoColor=white&logo=mui&color=000000" alt="mui" />
+    <img src="https://img.shields.io/badge/-Framer_Motion-black?style=for-the-badge&logoColor=white&logo=Framer&color=000000" alt="framerMotion" />
+   
+
+  </div>
+  
+</div>
 
 ## Description
 The official website of the Journalists Syndicate, providing comprehensive information and services for journalists in Egypt. The website aims to facilitate access to essential resources, online services, and the latest news related to the syndicate and its members.
