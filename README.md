@@ -98,3 +98,35 @@ As a **Front-End Developer**, I focused on building a **clean, responsive, and h
 | **Performance**  | Vite, Autoprefixer |
 | **Developer Tools** | Git, GitHub |
 
+---
+
+## 📸 Screenshots
+
+### 🔹 Membership Renewal Payment  
+#### 🗀 Payment Step 1  
+![Payment Page - Step 1](/images/Screenshots/fees-1.png)  
+
+#### 🗀 Payment Step 2  
+![Payment Page - Step 2](/images/Screenshots/fees-2.png)  
+
+### 🔹 Secure Login  
+#### 🗀 Standard Login  
+![Secure Login](/images/Screenshots/login-1.png)  
+
+#### 🗀 OTP Verification  
+![OTP Login](/images/Screenshots/login-2.png)  
+
+### 🔹 Latest News  
+#### 🗀 News Section - 1  
+![News - 1](/images/Screenshots/news-1.png)  
+
+#### 🗀 News Section - 2  
+![News - 2](/images/Screenshots/news-2.png)  
+
+### 🔹 Courses & Training  
+#### 🗀 Available Courses  
+![Courses](/images/Screenshots/courses.png)  
+
+### 🔹 Contact & Support  
+#### 🗀 Contact Page  
+![Contact](/images/Screenshots/contact.png)  
