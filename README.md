@@ -1,6 +1,6 @@
 <div align="center">
   
-# <div> <p> الموقع الرسمي لنقابة الصحفيين المصريين </p> <p >The Official Website of the Egyptian Journalists Syndicate</p> </div>
+# <div> <p> 📰 الموقع الرسمي لنقابة الصحفيين المصريين </p> <p > 📰 The Official Website of the Egyptian Journalists Syndicate</p> </div>
 
 
 ![Logo](/images/Hero.png)
@@ -102,31 +102,39 @@ As a **Front-End Developer**, I focused on building a **clean, responsive, and h
 
 ## 📸 Screenshots
 
-### 🔹 Membership Renewal Payment  
-#### 🗀 Payment Step 1  
-![Payment Page - Step 1](/images/Screenshots/fees-1.png)  
+### 🔹 Membership Renewal Payment
+#### 🗀 Payment Step 1 - Fee Details & Pay Button  
+*(User views fees and clicks the "Pay" button to proceed to the payment page)*  
+![Payment Step 1](/images/Screenshots/fees-1.png)
 
-#### 🗀 Payment Step 2  
-![Payment Page - Step 2](/images/Screenshots/fees-2.png)  
+#### 🗀 Payment Step 2 - Invoice & Payment Processing  
+*(User sees the invoice after proceeding with payment)*  
+![Payment Page - Step 2](/images/Screenshots/fees-2.png)
 
 ### 🔹 Secure Login  
-#### 🗀 Standard Login  
-![Secure Login](/images/Screenshots/login-1.png)  
+#### 🗀 Standard Login - Membership Number & Table Type  
+*(User enters their membership number and selects table type to log in securely)*  
+![Standard Login](/images/Screenshots/login-1.png) 
 
-#### 🗀 OTP Verification  
-![OTP Login](/images/Screenshots/login-2.png)  
+#### 🗀 OTP Verification - Secure Access  
+*(User enters OTP received via SMS for two-step authentication)*  
+![OTP Verification](/images/Screenshots/login-2.png) 
 
-### 🔹 Latest News  
-#### 🗀 News Section - 1  
+### 🔹 News  
+#### 🗀 Syndicate News  
+*(Latest updates and announcements from the syndicate)*  
 ![News - 1](/images/Screenshots/news-1.png)  
 
-#### 🗀 News Section - 2  
+#### 🗀 Committee Activities  
+*(Updates on various committee events and initiatives)*  
 ![News - 2](/images/Screenshots/news-2.png)  
 
 ### 🔹 Courses & Training  
-#### 🗀 Available Courses  
+#### 🗀 About the Training Center  
+*(Educational programs and workshops for journalists' professional development)*  
 ![Courses](/images/Screenshots/courses.png)  
 
-### 🔹 Contact & Support  
-#### 🗀 Contact Page  
-![Contact](/images/Screenshots/contact.png)  
+### 🔹 Contact Page  
+#### 🗀 Contact Form - Get in Touch  
+*(Users can send inquiries to the syndicate)*  
+![Contact](/images/Screenshots/contact.png)
