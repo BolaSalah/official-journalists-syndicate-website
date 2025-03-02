@@ -1,3 +1,9 @@
+## 📌 About This Repository  
+This repository contains only the **README file** as a reference for developers.  
+It serves as documentation to showcase my contribution to the **Official Website of the Egyptian Journalists Syndicate** project.  
+
+---
+
 <div align="center">
   
 # <div> <p> 📰 الموقع الرسمي لنقابة الصحفيين المصريين </p> <p > 📰 The Official Website of the Egyptian Journalists Syndicate</p> </div>
