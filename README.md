@@ -108,15 +108,6 @@ As a **Front-End Developer**, I focused on building a **clean, responsive, and h
 
 ## 📸 Screenshots
 
-### 🔹 Membership Renewal Payment
-#### 🗀 Payment Step 1 - Fee Details & Pay Button  
-*(User views fees and clicks the "Pay" button to proceed to the payment page)*  
-![Payment Step 1](/images/Screenshots/fees-1.png)
-
-#### 🗀 Payment Step 2 - Invoice & Payment Processing  
-*(User sees the invoice after proceeding with payment)*  
-![Payment Page - Step 2](/images/Screenshots/fees-2.png)
-
 ### 🔹 Secure Login  
 #### 🗀 Standard Login - Membership Number & Table Type  
 *(User enters their membership number and selects table type to log in securely)*  
@@ -125,6 +116,15 @@ As a **Front-End Developer**, I focused on building a **clean, responsive, and h
 #### 🗀 OTP Verification - Secure Access  
 *(User enters OTP received via SMS for two-step authentication)*  
 ![OTP Verification](/images/Screenshots/login-2.png) 
+
+### 🔹 Membership Renewal Payment
+#### 🗀 Payment Step 1 - Fee Details & Pay Button  
+*(User views fees and clicks the "Pay" button to proceed to the payment page)*  
+![Payment Step 1](/images/Screenshots/fees-1.png)
+
+#### 🗀 Payment Step 2 - Invoice & Payment Processing  
+*(User sees the invoice after proceeding with payment)*  
+![Payment Page - Step 2](/images/Screenshots/fees-2.png)
 
 ### 🔹 News  
 #### 🗀 Syndicate News  
